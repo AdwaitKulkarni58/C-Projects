@@ -52,7 +52,7 @@ void useAgain(){
   if (ans == 'y'){
     ask();
   }else if (ans == 'n'){
-    printf("Thanks for visiting!");
+    printf("Thanks for using the calculator!");
   }else{
     printf("Enter correct response");
     useAgain();
