@@ -9,7 +9,7 @@ int main(void) {
   for (int i = 0; i < nums; i++){
     scanf("%d", &a[i]);
   }
-  for (int i = 1; i <= nums; i++){
+  for (int i = 0; i <= nums; i++){
     if (a[i] > maxNum){
       maxNum = a[i];
     }
