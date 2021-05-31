@@ -1,0 +1,1 @@
+## A program that allows the user to enter an array of numbers and 2 numbers of his choice from that array. The program calculates the difference between the positions of those 2 numbers in the array and displays that difference.
