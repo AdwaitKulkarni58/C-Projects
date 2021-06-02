@@ -13,7 +13,7 @@ int main(void) {
     sum += ptr[i];
   }
   printf("%d", sum);
-  free(ptr);
+  free(ptr);          //Frees up the heap section of memory where the program data is stored.
 }
 
 /*
