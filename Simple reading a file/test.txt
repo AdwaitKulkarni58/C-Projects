@@ -1,0 +1,4 @@
+Hello there!
+Nice to meet you!
+Are you having a good day?
+Bye!
